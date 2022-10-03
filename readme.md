@@ -90,6 +90,8 @@ Skilaboð skulu innihalda:
   * `BjarniHaskoli`
   * `Stulli888`
 
+Skilaboð skulu innihalda zip skjali með lausn. **Athugið að ekki skal skila node_modules/ möppu**!
+
 ## Einkunn
 
 Leyfilegt er að ræða, og vinna saman að verkefni en **skrifið ykkar eigin lausn**. Ef tvær eða fleiri lausnir eru mjög líkar þarf að færa rök fyrir því, annars munu allir hlutaðeigandi hugsanlega fá 0 fyrir verkefnið.
