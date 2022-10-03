@@ -90,7 +90,7 @@ Skilaboð skulu innihalda:
   * `BjarniHaskoli`
   * `Stulli888`
 
-Skilaboð skulu innihalda zip skjali með lausn. **Athugið að ekki skal skila node_modules/ möppu**!
+Athugið að setja [`node_modules`](https://github.com/vefforritun/vef1-2022/blob/main/namsefni/21.taeki-tol/1.npm.md#node_modules) í [`.gitignore` skrá](https://github.com/vefforritun/vef1-2022/blob/main/namsefni/03.git/1.git.md#gitignore) þar sem sú mappa getur orðið stór.
 
 ## Einkunn
 
